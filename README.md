@@ -1,4 +1,4 @@
-# zig-latest
+# zig-compiler-env
 
 Quick and dirty docker container in which to build zig's compiler from source
 
