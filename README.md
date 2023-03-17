@@ -2,8 +2,10 @@
 
 Quick and dirty docker container in which to build zig's compiler from source
 
-Clone the repo:
+Clone the repos:
 
+    git clone https://github.com/ringtailsoftware/zig-compiler-env
+    cd zig-compiler-env
     git clone https://github.com/ziglang/zig.git
 
 Setup environment and drop into a bash shell in the container
