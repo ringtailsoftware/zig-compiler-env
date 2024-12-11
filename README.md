@@ -27,7 +27,7 @@ Have a cup of tea
 
 ## Running `make` does the following
 
- - builds an ubuntu based docker container with llvm-15
+ - builds an ubuntu based docker container with llvm-19
  - mounts the current directory on the host into /zig inside the container
  - drops into a bash shell in the container
 
